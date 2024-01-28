@@ -1,0 +1,27 @@
+{
+  "token": "",
+  "username": "",
+  "password": "",
+  "port": "3000",
+  "clientId": "1190934338573967400",
+  "guildId": "1183121037408342066",
+  "globalDeploy": false,
+  "status": "Made By canbequit 🔥",
+  "website": "https://youtube.com/ScienceGearYT",
+  "banner": "https://media.discordapp.net/attachments/960440723369517106/996423763522506782/rainbow-border.gif",
+  "footer": "Made By canbeuquit 🔥",
+  "genChannel": "1199019844398485525",
+  "premiumChannel": "1199033699392552990",
+  "genCooldown": "300",
+  "premiumCooldown": "500",
+  "color": {
+    "green": "0x57F287",
+    "yellow": "0xFEE75C",
+    "red": "0xED4245",
+    "default": "0x5865F2"
+  },
+  "command": {
+    "notfound_message": true,
+    "error_message": true
+  }
+}
